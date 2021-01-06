@@ -13,78 +13,49 @@ DATE OF SUBMISSION:
 
 ## Table of Contents 
  
-### TEAM PROFILE3 
+**TEAM PROFILE**
 Personal Information3 
 Team Profile 
 GitHub Profile 
 Commentary on Efficacy of GitHub 
-### INDUSTRY DATA 
+
+**INDUSTRY DATA** 
 Ideal Jobs 
 Compare and Analyze Ideal Jobs 
 Question 1: Employee Demand 
 Question 2: General & IT Specific Skills Required 
 Question 3: Ideal Job Opinions 
-### IT WORK 
+
+**IT WORK** 
 Question 1: Field of IT Professional 
 Question 2: Key Stakeholders 
 Question 3: Time allocation 
 Question 4: Challenging Aspects 
-### IT TECHNOLOGIES 
+
+**IT TECHNOLOGIES** 
 Blockchain and Cryptocurrencies 
 Autonomous Vehicles 
 Cybersecurity 
 Machine Learning 
-### PROJECT IDEA 
+
+**PROJECT IDEA** 
 Overview 
 Motivation 
 Description  
 Tools + Tech  
 Skills Required  
 Outcome  
-### GROUP REFLECTION 
+
+**GROUP REFLECTION** 
 Personal Reflection 
 Group Reflection  
-### REFERENCES AND APPENDIX 
+
+**REFERENCES AND APPENDIX** 
 
 
 
 
 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bellebuta484/Team-Profile-One-Goal-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bellebuta484/Team-Profile-One-Goal-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
