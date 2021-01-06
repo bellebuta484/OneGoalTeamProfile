@@ -1,10 +1,10 @@
 ![](images/onegoal.png)
 
-## COSC2196 Introduction to Information Technology 
-## ASSIGNMENT 2: TEAM PROJECT ONE GOAL
+**COSC2196 Introduction to Information Technology 
+ASSIGNMENT 2: TEAM PROJECT ONE GOAL**
  
  
-### GROUP:				Group 1 
+# GROUP:				Group 1 
 _STUDENTS: 	Alexandra Voss-Smith (S), Belle Phimonrat Panaphong (S3885709), Jordan Elkin (S  ) , Kristie Magazinovic (S3807456), Kur Bol Kur (S   ), Kym Reilly (S  )_
  
 GITHUB REPOSITORY:[Our Repo](https://github.com/bellebuta484/OneGoalTeamProfile.git)
@@ -14,7 +14,7 @@ DATE OF SUBMISSION:
 ## Table of Contents 
  
 **TEAM PROFILE**
-Personal Information3 
+Personal Information
 Team Profile 
 GitHub Profile 
 Commentary on Efficacy of GitHub 
