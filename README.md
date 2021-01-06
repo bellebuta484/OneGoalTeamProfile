@@ -5,10 +5,10 @@
  
  
 ### GROUP:				Group 1 
-_STUDENTS: 	Alexandra Voss-Smith (S), Belle Phimonrat Panaphong (S), Jordan Elkin (S  ) , Kristie Magazinovic (S3807456), Kur Bol Kur (S   ), Kym Reilly (S  )_
+_STUDENTS: 	Alexandra Voss-Smith (S), Belle Phimonrat Panaphong (S3885709), Jordan Elkin (S  ) , Kristie Magazinovic (S3807456), Kur Bol Kur (S   ), Kym Reilly (S  )_
  
 GITHUB REPOSITORY: 
-GITHUB PAGE URL:	 
+GITHUB PAGE URL:[team link](https://bellebuta484.github.io/OneGoalTeamProfile/)	 
 DATE OF SUBMISSION:	
 
 
