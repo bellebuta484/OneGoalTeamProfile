@@ -75,6 +75,95 @@ _Phimonrat Panaphong Belle_
 
 I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-year-old. I graduated with a Bachelor's degree in international business management from Thailand and had completed a Diploma in Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, and I am fair-minded, optimistic, hilarious, spontaneous, and honest. I am married to Ecuadorian-Australian who bring a laugher to the family. We have two gorgeous girls. They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and try my best to be mom, student and wife 
 
+# GitHub Profile  
+Text  
+ 
+# Commentary on Efficacy of GitHub	 
+Text  
 
+# Industry Data (Ideal Jobs)
 
+**Question 1: Employee Demand** 
+Text  
+ 
+**Question 2: General & IT Specific Skills Required** 
+Text  
+ 
+**Question 3: Ideal Job Opinions** 
+Text  
 
+# IT WORK 
+ 
+**Question 1: Field of IT Professional** 
+Text  
+
+**Question 2: Key Stakeholders**	 
+Text  
+
+**Question 3: Time allocation**	 
+Text  
+
+**Question 4: Challenging Aspects**	 
+Text  
+
+# IT TECHNOLOGIES 
+ 
+**Blockchain and Cryptocurrencies**	 
+Kristie 
+ 
+**Autonomous Vehicles** 
+Kristie 
+ 
+**Cybersecurity**	 
+Jason 
+ 
+**Machine Learning**	 
+Jason 
+ 
+# PROJECT IDEA 
+
+**Overview** 
+200 Words	 
+ 
+**Motivation**  
+200 Words 
+ 
+**Description**  
+600 Words 
+ 
+**Tools + Tech**  
+300 Words 
+ 
+**Skills Required** 
+300 Words 
+ 
+**Outcome**  
+200 Words 
+
+# GROUP REFLECTION 
+ 
+**Personal Reflection** 
+ 
+*Alexandra Voss-Smith*  
+200 Words 
+
+*Jordan Elkin*  
+200 Words 
+
+*Kristie Magazinovic*
+200 Words 
+
+*Kur Bol Kur* 
+200 Words
+
+*Kym Reilly* 
+200 Words 
+
+*Phimonrat Panaphong (Belle)*  
+200 Words 
+
+# Group Reflection  
+ 
+Alex - 400 Words 
+
+# REFERENCES AND APPENDIX 
