@@ -5,7 +5,7 @@ ASSIGNMENT 2: TEAM PROJECT ONE GOAL**
  
  
 # GROUP:				Group 1 
-_STUDENTS: 	Alexandra Voss-Smith (S), Belle Phimonrat Panaphong (S3885709), Jordan Elkin (S  ) , Kristie Magazinovic (S3807456), Kur Bol Kur (S   ), Kym Reilly (S  )_
+_STUDENTS: 	Alexandra Voss-Smith (S), Belle Phimonrat Panaphong (S3885709), Jordan Elkin (S  ) , Kristie Magazinovic (S3807456), Kym Reilly (S  )_
  
 GITHUB REPOSITORY:[Our Repo](https://github.com/bellebuta484/OneGoalTeamProfile.git)
 GITHUB PAGE URL:[Team Page](https://bellebuta484.github.io/OneGoalTeamProfile/)	 
@@ -14,10 +14,10 @@ DATE OF SUBMISSION:
 # Table of Contents 
  
 **TEAM PROFILE**
-Personal Information
-Team Profile 
-GitHub Profile 
-Commentary on Efficacy of GitHub 
+ #### Personal Information
+ #### Team Profile 
+ ### GitHub Profile 
+ ### Commentary on Efficacy of GitHub 
 
 **INDUSTRY DATA** 
 Ideal Jobs 
