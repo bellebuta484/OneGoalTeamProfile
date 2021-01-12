@@ -13,7 +13,7 @@ DATE OF SUBMISSION:
 
 # Table of Contents 
  
-**TEAM PROFILE**
+1. [TEAM PROFILE](TEAM PROFILE)
  #### Personal Information
  #### Team Profile 
  ### GitHub Profile 
