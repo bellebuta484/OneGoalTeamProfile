@@ -61,11 +61,8 @@ _Jordan Elkin_
 
 _Kristie Magazinovic_  
 I am currently studying a Bachelor of Business (Supply Chain and Logistics). Since Covid19 outbreak I decided to scale back on my full-time role as a National Fleet Manager for Hertz and focus on completing my degree. Studying through Open Universities has allowed me to pace my studies however this has been slow with a demanding job. I am now aiming to finish my degree in May 2021. I grew up on a working cattle and horse property and enjoy horse riding and spending time with my dogs. I also sing and play guitar in my spare time (Its cheaper than therapy). 
- 
-_Kur Bol Kur_ 
-I have no previous experience or knowledge in Information technology. My nationality is Sudanese. I do not have any higher education degrees, so to date my education level is equivalent to year 10. My native language is Thuɔŋjäŋ; which is more commonly known as Dinka, I can also speak Arabic and English. One fact about me that others may find interesting could be that I have experience in various farming industries, such as agriculture, horticulture and viticulture and that I previously had my own hobby farm with sheep, goats, pigs, cows, poultry and I had grown fodder, fruit and vegetables. 
- 
- 
+
+
 _Kym Reilly_ 
  
  
@@ -167,3 +164,42 @@ Jason
 Alex - 400 Words 
 
 # REFERENCES AND APPENDIX 
+
+www.kaspersky.com. 2021. What Is Cyber Security?. [online] Available at: <https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security> [Accessed 6 January 2021]. 
+  
+dzone.com. 2021. Cybersecurity Technologies You Should Be Aware Of In 2020 - Dzone Security. [online] Available at: <https://dzone.com/articles/cybersecurity-technologies-you-should-be-aware-of> [Accessed 6 January 2021]. 
+  
+Teceze.com. 2021. Future Of Cybersecurity: 4 Evolving Technologies | Managed IT Services And Cyber Security Services Company | 24 X 7. [online] Available at: <https://www.teceze.com/future-of-cybersecurity-4-evolving-technologies/#:~:text=Artificial%20Intelligence,-Artificial%20Intelligence%20(AI&text=This%20means%20that%20AI%20systems,and%20combat%20AI%20corruption%20attacks.> [Accessed 6 January 2021]. 
+  
+Bhardwaj, A., Madki, V. and Adhikari, B., 2021. Top 5 Technologies That Can Change The Future Of Cybersecurity. [online] StartupTalky. Available at: <https://startuptalky.com/technologies-future-cybersecurity/> [Accessed 6 January 2021]. 
+  
+Forbes. 2021. What Will Cybersecurity Look Like 10 Years From Now?. [online] Available at: <https://www.forbes.com/sites/quora/2017/09/14/what-will-cybersecurity-look-like-10-years-from-now/?sh=71a830ad6e6e> [Accessed 6 January 2021]. 
+  
+cybersecurity:&hellip;, F., 2021. Offensive Cybersecurity And Defensive Cybesecurity | Threat Hunting. [online] Threat Hunting. Available at: <https://www.threathunting.se/2020/06/25/defensive-offensive-cybersecurity/> [Accessed 6 January 2021]. 
+  
+Computer Business Review. 2021. The Future Of AI & Cybersecurity. [online] Available at: <https://www.cbronline.com/opinion/the-future-of-ai-and-cybersecurity#:~:text=AI%20%26%20Cybersecurity%3A%20The%20Growing%20Threats,adapt%20to%20counter%20security%20defences.&text=Even%20further%20over%20the%20horizon,and%20orchestrating%20its%20own%20attacks.> [Accessed 6 January 2021]. 
+  
+Webroot.com. 2021. What Is Multi-Layer Security And How Can. [online] Available at: <https://www.webroot.com/au/en/resources/tips-articles/corporate-internet-security> [Accessed 6 January 2021]. 
+  
+  
+SmartBrief. 2021. A Glimpse Into The Future Of Cybersecurity. [online] Available at: <https://www.smartbrief.com/original/2020/01/glimpse-future-cybersecurity> [Accessed 6 January 2021]. 
+  
+Cyber Security Solutions, Compliance, and Consulting Services - IT Security. 2021. How New Technologies Affect Cyber Security - Cyber Security Solutions, Compliance, And Consulting Services - IT Security. [online] Available at: <https://www.infoguardsecurity.com/new-technologies-affect-cyber-security/> [Accessed 6 January 2021]. 
+  
+Utica College Online. 2021. Ten Ways Evolving Technology Affects Cybersecurity. [online] Available at: <https://programs.online.utica.edu/articles/ten-ways-evolving-technology-affects-cybersecurity-0321> [Accessed 6 January 2021]. 
+  
+Upguard.com. 2021. Why Is Cybersecurity Important? | Upguard. [online] Available at: <https://www.upguard.com/blog/cybersecurity-important> [Accessed 6 January 2021]. 
+  
+Techcrunch.com. 2021. Techcrunch Is Now A Part Of Verizon Media. [online] Available at: <https://techcrunch.com/sponsor/unlisted/understanding-the-security-behind-your-apps-payment-system-2/> [Accessed 6 January 2021]. 
+ 
+Mitchell, T., 2013. Machine Learning. New York: McGraw-Hill 
+Mathworks.com. 2021. What Is Machine Learning? | How It Works, Techniques & Applications. [online] Available at: <https://www.mathworks.com/discovery/machine-learning.html> [Accessed 8 January 2021].  
+Media.nesta.org.uk. 2021. [online] Available at: <https://media.nesta.org.uk/documents/machines_that_learn_in_the_wild.pdf> [Accessed 8 January 2021]. 
+The Verge. 2021. How Artificial Intelligence Will Revolutionize The Way Video Games Are Developed And Played. [online] Available at: <https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning> [Accessed 8 January 2021]. 
+Logikk. 2021. 6 Ways Machine Learning Will Be Used In Game Development | Logikk. [online] Available at: <https://www.logikk.com/articles/machine-learning-in-game-development/#:~:text=Machine%20Learning%20in%20Game%20Development,-For%20those%20that&text=Machine%20learning%20is%20the%20ability,experience%2C%20without%20being%20explicitly%20programmed.&text=Enabling%20games%20developed%20with%20machine,imaginative%20ways%20to%20the%20player.> [Accessed 8 January 2021].  
+Built In. 2021. 15 Examples Of Machine Learning In Healthcare That Are Revolutionizing Medicine. [online] Available at: <https://builtin.com/artificial-intelligence/machine-learning-healthcare> [Accessed 8 January 2021]. 
+Built In. 2021. 15 Examples Of Machine Learning In Healthcare That Are Revolutionizing Medicine. [online] Available at: <https://builtin.com/artificial-intelligence/machine-learning-healthcare> [Accessed 8 January 2021]. 
+Science Direct. 2020. Predicting The Growth And Trend Of COVID-19 Pandemic Using Machine Learning And Cloud Computing. [online] Available at: <https://www.sciencedirect.com/science/article/abs/pii/S254266052030055X> [Accessed 8 January 2021]. 
+Deloitte Turkey. 2021. Business Impacts Of Machine Learning. [online] Available at: <https://www2.deloitte.com/tr/en/pages/strategy-operations/articles/business-impacts-of-machine-learning.html> [Accessed 9 January 2021]. 
+Identifying machine learning techniques for classification of target advertising. 2021. Science Direct. [online] Available at: <https://www.sciencedirect.com/science/article/pii/S2405959520301090> [Accessed 9 January 2021]. 
+Analytics Insight. 2021. Top 10 Machine Learning Applications And Use Cases In Our Daily Life. [online] Available at: <https://www.analyticsinsight.net/top-10-machine-learning-applications-and-use-cases-in-our-daily-life/> [Accessed 9 January 2021]. 
