@@ -81,7 +81,7 @@ I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-ye
 ![Team Profile][https://bellebuta484.github.io/OneGoalTeamProfile/]
 
 |     Team Member   | Myers Briggs Personality | Learning Style | Other Test | How do these results impact the Group |
-| ------------------------------------------------------------------------------------------------------------------ |
+| ----------------- | ------------------------ | -------------- | ---------- | ------------------------------------- |
 | Belle P.Panaphong |   INFJ-T(The Advocate)   | Auditory: 45%  |Creativity  |In my opinion, every group need the    |
 |                   |                          | Visual:25%     |test: 72%   |Advocate to play the role              |
 |                   |                          | Tactile:30%    |            |of participate, assist the load of     |
