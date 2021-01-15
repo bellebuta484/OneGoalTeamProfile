@@ -56,24 +56,35 @@ Group Reflection
  
 **Personal Information** 
  
-_Jordan Elkin_
+_Jordan Elkin_ ![WebPage][https://jordanelkin.github.io/persProfile/]
+I am a current serving member within the Australian Defence Force and have a strong interest within the IT field.  Previously I have studied Web Design and Basic Programming in my own time through self-directed learning.  I am an Australian and can speak both English and German. I am studying in order to complete my Bachelor of Information Technology in the hopes of changing careers and moving towards a more technical path.  
 
-
-_Kristie Magazinovic_  
+_Kristie Magazinovic_ ![WebPage][https://github.com/Kristiem88]  
 I am currently studying a Bachelor of Business (Supply Chain and Logistics). Since Covid19 outbreak I decided to scale back on my full-time role as a National Fleet Manager for Hertz and focus on completing my degree. Studying through Open Universities has allowed me to pace my studies however this has been slow with a demanding job. I am now aiming to finish my degree in May 2021. I grew up on a working cattle and horse property and enjoy horse riding and spending time with my dogs. I also sing and play guitar in my spare time (Its cheaper than therapy). 
 
-
-_Kym Reilly_ 
+_Kym Reilly_ ![WebPage][https://frygit87.github.io/FinalAssess1IIT/]
+After recently selling a couple of restaurants at the end of 2020, I am currently making the move to sea change my future from what I have previously qualified as an automotive mechanic out of school, then into hospitality, running and owning restaurants. Feeling like I have achieved what I set out to do in those fields, I’m looking to learn new skills and pursue a new and exciting career path with boundless options in the future that we are all heading toward.  
  
- 
 
-
-_Phimonrat Panaphong Belle_ 
-
+_Phimonrat Panaphong Belle_ ![WebPage][https://bellebuta484.github.io/My_PROFILE_20/]
 I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-year-old. I graduated with a Bachelor's degree in international business management from Thailand and had completed a Diploma in Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, and I am fair-minded, optimistic, hilarious, spontaneous, and honest. I am married to Ecuadorian-Australian who bring a laugher to the family. We have two gorgeous girls. They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and try my best to be mom, student and wife 
 
+
 # GitHub Profile  
-Text  
+![Team Profile][https://bellebuta484.github.io/OneGoalTeamProfile/]
+
+|     Team Member   | Myers Briggs Personality | Learning Style | Other Test | How do these results impact the Group |
+  ------------------------------------------------------------------------------------------------------------------
+| Belle P.Panaphong |   INFJ-T(The Advocate)   | Auditory: 45%  |Creativity  |In my opinion, every group need the    |
+|                   |                          | Visual:25%     |test: 72%   |Advocate to play the role              |
+|                   |                          | Tactile:30%    |            |of participate, assist the load of     |
+|                   |                          |                |            |works and move forward.                |
+  -------------------------------------------------------------------------------------------------------------------
+  
+
+
+
+
  
 # Commentary on Efficacy of GitHub	 
 Text  
