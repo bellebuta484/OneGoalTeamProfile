@@ -17,65 +17,69 @@ DATE OF SUBMISSION:
 # Table of Contents
 
 1. [Team Profile](#team-profile)
-Personal Information
-Team Profile
-GitHub Profile
-Commentary on Efficacy of GitHub
+
+- Personal Information
+
+- Team Profile
+
+- GitHub Profile
+
+- Commentary on Efficacy of GitHub
 
 2. [Industry Data](#industry-data)
 
-Ideal Jobs 
+- Ideal Jobs 
 
-Compare and Analyze Ideal Jobs 
+- Compare and Analyze Ideal Jobs 
 
-Question 1: Employee Demand 
+- Question 1: Employee Demand 
 
-Question 2: General & IT Specific Skills Required 
+- Question 2: General & IT Specific Skills Required 
 
-Question 3: Ideal Job Opinions
+- Question 3: Ideal Job Opinions
 
 
-**IT WORK** 
+3. [IT WORK](#it-work) 
 
-Question 1: Field of IT Professional 
+- Question 1: Field of IT Professional 
 
-Question 2: Key Stakeholders 
+- Question 2: Key Stakeholders 
 
-Question 3: Time allocation 
+- Question 3: Time allocation 
 
-Question 4: Challenging Aspects 
+- Question 4: Challenging Aspects 
 
-**IT TECHNOLOGIES** 
+4. **[IT TECHNOLOGIES](#it-technologies) 
 
-Blockchain and Cryptocurrencies 
+- Blockchain and Cryptocurrencies 
 
-Autonomous Vehicles 
+- Autonomous Vehicles 
 
-Cybersecurity 
+- Cybersecurity 
 
-Machine Learning 
+- Machine Learning 
 
-**PROJECT IDEA** 
+5. [PROJECT IDEA](#project-idea) 
 
-Overview 
+- Overview 
 
-Motivation 
+- Motivation 
 
-Description  
+- Description  
 
-Tools + Tech  
+- Tools + Tech  
 
-Skills Required  
+- Skills Required  
 
-Outcome  
+- Outcome  
 
-**GROUP REFLECTION** 
+6. [GROUP REFLECTION](#group-reflection) 
 
-Personal Reflection 
+- Personal Reflection 
 
-Group Reflection  
+- Group Reflection  
 
-**REFERENCES AND APPENDIX** 
+7. [REFERENCES AND APPENDIX](#references-and-appendix) 
 
 ## TEAM PROFILE 
  
@@ -125,7 +129,10 @@ text
 ### Commentary on Efficacy of GitHub	 
 Text  
 
-## Industry Data (Ideal Jobs)
+## Industry Data 
+
+**Ideal Jobs**
+
 
 |Team Member|Ideal Job|Demand for Role|Job Description|Similarities|Differences|General Skills Required|IT Skills Required|Final Opinion on Role|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -210,18 +217,12 @@ Jason
 # GROUP REFLECTION 
  
 **Personal Reflection** 
- 
-*Alexandra Voss-Smith*  
-200 Words 
 
 *Jordan Elkin*  
 200 Words 
 
 *Kristie Magazinovic*
 200 Words 
-
-*Kur Bol Kur* 
-200 Words
 
 *Kym Reilly* 
 200 Words 
@@ -231,7 +232,7 @@ Jason
 
 # Group Reflection  
  
-Alex - 400 Words 
+ Kristie - 400 Words
 
 # REFERENCES AND APPENDIX 
 
