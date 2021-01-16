@@ -87,7 +87,7 @@ DATE OF SUBMISSION:
 
 ## TEAM PROFILE 
  
-**Personal Information** 
+### Personal Information
  
 _Jordan Elkin_ [WebPage](https://jordanelkin.github.io/persProfile/)
 
@@ -107,7 +107,7 @@ _Phimonrat Panaphong Belle_ [WebPage](https://bellebuta484.github.io/My_PROFILE_
 I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-year-old. I graduated with a Bachelor's degree in international business management from Thailand and had completed a Diploma in Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, and I am fair-minded, optimistic, hilarious, spontaneous, and honest. I am married to Ecuadorian-Australian who bring a laugher to the family. We have two gorgeous girls. They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and try my best to be mom, student and wife 
 
  
-**Team Profile**
+### Team Profile
 
      Team Member   | Myers Briggs Personality    | Learning Style | Other Test | How do these results impact the Group 
  :---------------: | :-------------------------: | :-------------:| :--------: | :-----------------------------------:
@@ -135,7 +135,7 @@ Text
 
 ## Industry Data 
 
-**Ideal Jobs**
+### Ideal Jobs
 
 
 |Team Member|Ideal Job|Demand for Role|Job Description|Similarities|Differences|General Skills Required|IT Skills Required|Final Opinion on Role|
@@ -146,66 +146,66 @@ System Analyst|According to the Bureau of Labour Statistics data, IT professiona
 
 
 
-**Question 1: Employee Demand** 
+### Question 1: Employee Demand
 Text  
  
-**Question 2: General & IT Specific Skills Required** 
+### Question 2: General & IT Specific Skills Required
 Text  
  
-**Question 3: Ideal Job Opinions** 
+### Question 3: Ideal Job Opinions 
 Text  
 
-# IT WORK 
+## IT WORK 
  
-**Question 1: Field of IT Professional** 
+### Question 1: Field of IT Professional
 Text  
 
-**Question 2: Key Stakeholders**	 
+### Question 2: Key Stakeholders 
 Text  
 
-**Question 3: Time allocation**	 
+### Question 3: Time allocation 
 Text  
 
 **Question 4: Challenging Aspects**	 
 Text  
 
-# IT TECHNOLOGIES 
+## IT TECHNOLOGIES 
  
-**Blockchain and Cryptocurrencies**	 
+### Blockchain and Cryptocurrencies 
 Kristie 
  
-**Autonomous Vehicles** 
+### Autonomous Vehicles 
 Kristie 
  
-**Cybersecurity**	 
+### Cybersecurity	 
 Jason 
  
-**Machine Learning**	 
+### Machine Learning 
 Jason 
  
-# PROJECT IDEA 
+## PROJECT IDEA 
 
-**Overview** 
+### Overview 
 200 Words	 
  
-**Motivation**  
+### Motivation  
 200 Words 
  
-**Description**  
+### Description 
 600 Words 
  
-**Tools + Tech**  
+### Tools + Tech
 300 Words 
  
-**Skills Required** 
+### Skills Required 
 300 Words 
  
-**Outcome**  
+### Outcome  
 200 Words 
 
-# GROUP REFLECTION 
+## GROUP REFLECTION 
  
-**Personal Reflection** 
+### Personal Reflections
 
 *Jordan Elkin*  
 200 Words 
@@ -219,13 +219,13 @@ Jason
 *Phimonrat Panaphong (Belle)*  
 200 Words 
 
-# Group Reflection  
+### Group Reflection  
  
  Kristie - 400 Words
 
-# REFERENCES AND APPENDIX 
+## REFERENCES AND APPENDIX 
 
-**References for Blockchain & Cryptocurrencies and Autonomous Vehicles articles**  
+### References for Blockchain & Cryptocurrencies and Autonomous Vehicles articles 
 
 Barone, A. 2019, _The Future Of Cryptocurrency in 2019 and Beyond_, Investopedia, Viewed 10 Jan 2021, [https://www.investopedia.com/articles/forex/091013/future-cryptocurrency.asp]
 
@@ -257,7 +257,7 @@ Zhao, J. Fan, S. and Yan, J. (2016), _Overview of Business Innovations and Resea
 
  
 
-**References for CyberSecrurity and Machine Learning Articles**  
+### References for CyberSecrurity and Machine Learning Articles  
 
 Armstrong, H 2015, Nesta, _Machines that learn in the wild_, Media Nesta, Viewed 8 January, [https://media.nesta.org.uk/documents/machines_that_learn_in_the_wild.pdf]
 
