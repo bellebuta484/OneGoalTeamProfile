@@ -16,70 +16,74 @@ DATE OF SUBMISSION:
 
 # Table of Contents
 
-1. [Team Profile](#team-profile)
+[Team Profile](#team-profile)
 
-- Personal Information
+ - [Personal Information](#Personal-Information)
 
-- Team Profile
+ - [Team Profile](#Team-profile)
 
-- GitHub Profile
+ - [GitHub Profile](#github-profile)
 
-- Commentary on Efficacy of GitHub
+ - [Commentary on Efficacy of GitHub](#Commentary-on-Efficacy-of-GitHub)
 
-2. [Industry Data](#industry-data)
+[Industry Data](#industry-data)
 
-- Ideal Jobs 
+ - [Ideal Jobs](#ideal-jobs) 
 
-- Compare and Analyze Ideal Jobs 
+ - [Compare and Analyze Ideal Jobs](#compare-and-analyze-ideal-jobs) 
 
-- Question 1: Employee Demand 
+ - [Question 1: Employee Demand](#Question-1:-Employee-Demand) 
 
-- Question 2: General & IT Specific Skills Required 
+ - [Question 2: General & IT Specific Skills Required](#Question-2:-General-&-IT-Specific-Skills-Required) 
 
-- Question 3: Ideal Job Opinions
+ - [Question 3: Ideal Job Opinions](#Question-3:-Ideal-Job-Opinions)
 
 
-3. [IT WORK](#it-work) 
+[IT WORK](#it-work) 
 
-- Question 1: Field of IT Professional 
+ - [Question 1: Field of IT Professional](#Question-1:-Field-of-IT-Professional) 
 
-- Question 2: Key Stakeholders 
+ - [Question 2: Key Stakeholders](#Question-2:-Key-Stakeholders) 
 
-- Question 3: Time allocation 
+ - [Question 3: Time allocation](#Question-3:-Time-allocation) 
 
-- Question 4: Challenging Aspects 
+ - [Question 4: Challenging Aspects](#Question-4:-Challenging-Aspects) 
 
-4. [IT TECHNOLOGIES](#it-technologies) 
+[IT TECHNOLOGIES](#it-technologies) 
 
-- Blockchain and Cryptocurrencies 
+ - [Blockchain and Cryptocurrencies](#blockchain-and-cryptocurrencies) 
 
-- Autonomous Vehicles 
+ - [Autonomous Vehicles](#Autonomous-Vehicles)
 
-- Cybersecurity 
+ - [Cybersecurity](#cybersecurity) 
 
-- Machine Learning 
+ - [Machine Learning](#machine-learning) 
 
-5. [PROJECT IDEA](#project-idea) 
+[PROJECT IDEA](#project-idea) 
 
-- Overview 
+ - [Overview](#overview) 
 
-- Motivation 
+ - [Motivation](#motivation) 
 
-- Description  
+ - [Description](#description)  
 
-- Tools + Tech  
+ - [Tools + Tech](#tools-+-tech)  
 
-- Skills Required  
+ - [Skills Required](#skills-required)  
 
-- Outcome  
+ - [Outcome](#outcome)  
 
-6. [GROUP REFLECTION](#group-reflection) 
+[GROUP REFLECTION](#group-reflection) 
 
-- Personal Reflection 
+ - [Personal Reflection](#personal-reflection) 
 
-- Group Reflection  
+ - [Group Reflection](#group-replection)  
 
-7. [REFERENCES AND APPENDIX](#references-and-appendix) 
+[REFERENCES AND APPENDIX](#references-and-appendix) 
+
+ - [Blockchain & Cryptocurrencies and Autonomous Vehicles articles](#Blockchain-&-Cryptocurrencies-and-Autonomous-Vehicles-articles)
+ 
+ - [CyberSecrurity and Machine Learning Articles](#CyberSecrurity-and-Machine-Learning-Articles)
 
 ## TEAM PROFILE 
  
