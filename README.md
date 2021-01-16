@@ -18,13 +18,13 @@ DATE OF SUBMISSION:
 
 [Team Profile](#team-profile)
 
- - [Personal Information](#Personal-Information)
+ - [Personal Information](#personal-information)
 
- - [Personal test outcome](#Personal-test-outcome)
+ - [Personal test outcome](#personal-test-outcome)
 
  - [GitHub Profile](#github-profile)
 
- - [Commentary on Efficacy of GitHub](#Commentary-on-Efficacy-of-GitHub)
+ - [Commentary on Efficacy of GitHub](#commentary-on-efficacy-of-gitHub)
 
 [Industry Data](#industry-data)
 
@@ -32,28 +32,28 @@ DATE OF SUBMISSION:
 
  - [Compare and Analyze Ideal Jobs](#compare-and-analyze-ideal-jobs) 
 
- - [Question 1: Employee Demand](#Question1:-Employee-Demand) 
+ - [Question 1: Employee Demand](#question-1-employee-demand) 
 
- - [Question 2: General & IT Specific Skills Required](#Question2:-General-&-IT-Specific-Skills-Required) 
+ - [Question 2: General and IT Specific Skills Required](#question-2-general-and-IT-Specific-Skills-Required) 
 
- - [Question 3: Ideal Job Opinions](#Question3:-Ideal-Job-Opinions)
+ - [Question 3: Ideal Job Opinions](#question-3-Ideal-Job-Opinions)
 
 
 [IT WORK](#it-work) 
 
- - [Question 1: Field of IT Professional](#Question-1:-Field-of-IT-Professional) 
+ - [Question 1: Field of IT Professional](#question-1-Field-of-IT-Professional) 
 
- - [Question 2: Key Stakeholders](#Question-2:-Key-Stakeholders) 
+ - [Question 2: Key Stakeholders](#question-2-Key-Stakeholders) 
 
- - [Question 3: Time allocation](#Question-3:-Time-allocation) 
+ - [Question 3: Time allocation](#question-3-Time-allocation) 
 
- - [Question 4: Challenging Aspects](#Question-4:-Challenging-Aspects) 
+ - [Question 4: Challenging Aspects](#question-4-Challenging-Aspects) 
 
 [IT TECHNOLOGIES](#it-technologies) 
 
  - [Blockchain and Cryptocurrencies](#blockchain-and-cryptocurrencies) 
 
- - [Autonomous Vehicles](#Autonomous-Vehicles)
+ - [Autonomous Vehicles](#autonomous-vehicles)
 
  - [Cybersecurity](#cybersecurity) 
 
@@ -81,9 +81,9 @@ DATE OF SUBMISSION:
 
 [REFERENCES AND APPENDIX](#references-and-appendix) 
 
- - [Blockchain and Cryptocurrencies and Autonomous Vehicles articles](#Blockchain-&-Cryptocurrencies-and-Autonomous-Vehicles-articles)
+ - [Blockchain and Cryptocurrencies and Autonomous Vehicles articles](#blockchain-and-cryptocurrencies-and-autonomous-vehicles-articles)
  
- - [CyberSecrurity and Machine Learning Articles](#CyberSecrurity-and-Machine-Learning-Articles)
+ - [CyberSecrurity and Machine Learning Articles](#cybersecrurity-and-machine-learning-articles)
 
 ## TEAM PROFILE 
  
