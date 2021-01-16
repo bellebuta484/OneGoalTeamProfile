@@ -14,48 +14,70 @@ GITHUB PAGE URL:[Team Page](https://bellebuta484.github.io/OneGoalTeamProfile/)
 
 DATE OF SUBMISSION:	
 
-# Table of Contents 
- 
-1. [TEAM PROFILE](#TEAM PROFILE)
- #### Personal Information
- #### Team Profile 
- ### GitHub Profile 
- ### Commentary on Efficacy of GitHub 
+# Table of Contents
 
-**INDUSTRY DATA** 
+1. [Team Profile](#team-profile)
+Personal Information
+Team Profile
+GitHub Profile
+Commentary on Efficacy of GitHub
+
+2. [Industry Data](#industry-data)
+
 Ideal Jobs 
+
 Compare and Analyze Ideal Jobs 
+
 Question 1: Employee Demand 
+
 Question 2: General & IT Specific Skills Required 
-Question 3: Ideal Job Opinions 
+
+Question 3: Ideal Job Opinions
+
 
 **IT WORK** 
+
 Question 1: Field of IT Professional 
+
 Question 2: Key Stakeholders 
+
 Question 3: Time allocation 
+
 Question 4: Challenging Aspects 
 
 **IT TECHNOLOGIES** 
+
 Blockchain and Cryptocurrencies 
+
 Autonomous Vehicles 
+
 Cybersecurity 
+
 Machine Learning 
 
 **PROJECT IDEA** 
+
 Overview 
+
 Motivation 
+
 Description  
+
 Tools + Tech  
+
 Skills Required  
+
 Outcome  
 
 **GROUP REFLECTION** 
+
 Personal Reflection 
+
 Group Reflection  
 
 **REFERENCES AND APPENDIX** 
 
-# TEAM PROFILE 
+## TEAM PROFILE 
  
 **Personal Information** 
  
@@ -96,14 +118,14 @@ I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-ye
 
 
   
-# GitHub Profile 
+### GitHub Profile 
 text
 
  
-# Commentary on Efficacy of GitHub	 
+### Commentary on Efficacy of GitHub	 
 Text  
 
-# Industry Data (Ideal Jobs)
+## Industry Data (Ideal Jobs)
 
 |Team Member|Ideal Job|Demand for Role|Job Description|Similarities|Differences|General Skills Required|IT Skills Required|Final Opinion on Role|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
