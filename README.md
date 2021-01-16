@@ -5,7 +5,7 @@
 **ASSIGNMENT 2: TEAM PROJECT ONE GOAL**
  
  
-# GROUP:				Group 1 
+## GROUP:				Group 1 
 _STUDENTS: Belle Phimonrat Panaphong (S3885709), Jordan Elkin (S3731867) , Kristie Magazinovic (S3807456), Kym Reilly (S3882530)_
  
 GITHUB REPOSITORY:[Our Repo](https://github.com/bellebuta484/OneGoalTeamProfile.git)
@@ -49,7 +49,7 @@ DATE OF SUBMISSION:
 
 - Question 4: Challenging Aspects 
 
-4. **[IT TECHNOLOGIES](#it-technologies) 
+4. [IT TECHNOLOGIES](#it-technologies) 
 
 - Blockchain and Cryptocurrencies 
 
@@ -105,12 +105,12 @@ I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-ye
  
 **Team Profile**
 
-|     Team Member   | Myers Briggs Personality    | Learning Style | Other Test | How do these results impact the Group |
-| :---------------: | :-------------------------: | :-------------:| :--------: | :-----------------------------------: |
-| Belle P.Panaphong |   INFJ-T(The Advocate)      | Auditory:45% Visual:25% test:72% Tactile:30%   |Creativity:72%  |In my opinion, every group need the Advocate to play the role of participate, assist the load of works and move forward.|
-|  Jordan Elkin     | ISTJ-A(Assertive Logistician)|Auditory:60% Tactile:40%| Openness:75% Conscientiousness:87.5% Extraversion:46% Agreeableness:60% Neuroticism:23%|                  |
-| Kristie Magazinovic | ENTJ(The Commander)   | Auditory:35% Visual:45% Tactile:20%   | Aptitude Test:87%| As an individual with strong leadership attributes and directness there will be a benefit in ensuring the team stays on task.  |
-| Kym Reilly  | ISTJ-A (The Logistician) | Auditory:35% Visual:25% Tactile:40% | Steadiness:33% Dominance:26% Compliance:26% Influence:15% |  | 
+     Team Member   | Myers Briggs Personality    | Learning Style | Other Test | How do these results impact the Group 
+ :---------------: | :-------------------------: | :-------------:| :--------: | :-----------------------------------:
+ Belle P.Panaphong |   INFJ-T(The Advocate)      | Auditory:45% Visual:25% test:72% Tactile:30%   |Creativity:72%  |In my opinion, every group need the Advocate to play the role of participate, assist the load of works and move forward.
+ Jordan Elkin     | ISTJ-A(Assertive Logistician)|Auditory:60% Tactile:40%| Openness:75% Conscientiousness:87.5% Extraversion:46% Agreeableness:60% Neuroticism:23%|               
+Kristie Magazinovic | ENTJ(The Commander)   | Auditory:35% Visual:45% Tactile:20%   | Aptitude Test:87%| As an individual with strong leadership attributes and directness there will be a benefit in ensuring the team stays on task.  
+Kym Reilly  | ISTJ-A (The Logistician) | Auditory:35% Visual:25% Tactile:40% | Steadiness:33% Dominance:26% Compliance:26% Influence:15% |  
 
   
 
@@ -137,23 +137,8 @@ Text
 |Team Member|Ideal Job|Demand for Role|Job Description|Similarities|Differences|General Skills Required|IT Skills Required|Final Opinion on Role|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Belle Phimonrat Panaphong|
-System Analyst|
-According to the Bureau of Labour Statistics data, IT professionals are in high demand, and the career outlook for systems analysts continues and expected to grow by 9% through 2028. System Analysts are often required to work overtime and out of regular hours to regulate the upgrades, solves, securing the interruption to business.|
-A System Analyst is responsible for maintaining and improving computer systems for an organization.  System Analysts require to troubleshoot and maintain data warehouse and data storage systems.  Regularly researching, assess and evaluate technology in the infrastructure. Understanding user needs and how to improve systems based on demand. Create cost analysis reports that highlight the cost of efficiency. Communicate with stakeholders and train users.|
-System Analysts require similarity skills as the other jobs listed below. They need to have a good communication skill in verbal and writing, thinking ability, problem-solving and good knowledge of programming language.|
-All the job roles have a different responsibility in their position. System Analyst is focusing on maintaining and improving computer systems. Work to optimise programs for users. The role is to advise employers and clients on which software they may need for their company, implement the software, and communicate with users to ensure the programs function correctly.|
-- Critical thinking ability - Strong problem-solving capacity - High-level written and verbal communication skills - Project management skills - Knowledge of data modeling and data visualization tools| 
-- Knowledge of how to operate business software applications such as SQL, Oracle and SAP. - Knowledge of hardware and software - Knowledge of programming language such as Java, C++ and Visual basic|
-I see the larger picture in resolving problems as a mother; we always think ahead. This role will reward me in so many ways such as solving complex problem, interacting with many different groups and functional areas allowed me to continue learning and understanding how different functions operate, and challenged with understanding discipline. It has also given me opportunities to grow in my career as a leader.|
-|Jordan Elkin|
-Software Engineer|
-Within Australia and the world there is an increasing demand for IT professionals. However, there is an increasing demand for software engineers in order to solve problems with technology.|
-This is a job role as a Software Engineer working within a company that provides services for start-ups and other corporate entities. That require Software based solutions. These solutions include web design, server setup and support, providing technical support to customers that have been provided with custom Software that has been designed for them.|
-Is similar that it provides an Information Technology service to a customer that requires such a solution. Further, like most technology jobs, this job requires long hours, problem solving, designing and requires communicating to clients how and why this solution is appropriate for them.| 
-Is different to other technology jobs as this requires a software approach to problems whereas job such as Systems Engineer require more of a hardware approach (i.e., physical components of the computer are managed instead of writing software).|
-- Critical Thinking - Problem Solving - Technical skills - Project management - Communication skills written/verbal.|
-- Knowledge of multiple programming languages - Knowledge of Integrated Development Platforms - Knowledge of cloud services such as AWS and Microsoft Azure - Knowledge of GitHub|
-Excellent role for people with strong mathematical and problem-solving skills. Moreover, this role has opportunities for workers to work remotely from home instead of an office like most other IT roles. However, this role may not accommodate people who wish a more physical role or a one that allows for a greater diversity of working environments.|  
+System Analyst|According to the Bureau of Labour Statistics data, IT professionals are in high demand, and the career outlook for systems analysts continues and expected to grow by 9% through 2028. System Analysts are often required to work overtime and out of regular hours to regulate the upgrades, solves, securing the interruption to business.|A System Analyst is responsible for maintaining and improving computer systems for an organization.  System Analysts require to troubleshoot and maintain data warehouse and data storage systems.  Regularly researching, assess and evaluate technology in the infrastructure. Understanding user needs and how to improve systems based on demand. Create cost analysis reports that highlight the cost of efficiency. Communicate with stakeholders and train users.|System Analysts require similarity skills as the other jobs listed below. They need to have a good communication skill in verbal and writing, thinking ability, problem-solving and good knowledge of programming language.|All the job roles have a different responsibility in their position. System Analyst is focusing on maintaining and improving computer systems. Work to optimise programs for users. The role is to advise employers and clients on which software they may need for their company, implement the software, and communicate with users to ensure the programs function correctly.|- Critical thinking ability - Strong problem-solving capacity - High-level written and verbal communication skills - Project management skills - Knowledge of data modeling and data visualization tools|- Knowledge of how to operate business software applications such as SQL, Oracle and SAP. - Knowledge of hardware and software - Knowledge of programming language such as Java, C++ and Visual basic|I see the larger picture in resolving problems as a mother; we always think ahead. This role will reward me in so many ways such as solving complex problem, interacting with many different groups and functional areas allowed me to continue learning and understanding how different functions operate, and challenged with understanding discipline. It has also given me opportunities to grow in my career as a leader.
+|Jordan Elkin|Software Engineer|Within Australia and the world there is an increasing demand for IT professionals. However, there is an increasing demand for software engineers in order to solve problems with technology.|This is a job role as a Software Engineer working within a company that provides services for start-ups and other corporate entities. That require Software based solutions. These solutions include web design, server setup and support, providing technical support to customers that have been provided with custom Software that has been designed for them.|Is similar that it provides an Information Technology service to a customer that requires such a solution. Further, like most technology jobs, this job requires long hours, problem solving, designing and requires communicating to clients how and why this solution is appropriate for them.|Is different to other technology jobs as this requires a software approach to problems whereas job such as Systems Engineer require more of a hardware approach (i.e., physical components of the computer are managed instead of writing software).|- Critical Thinking - Problem Solving - Technical skills - Project management - Communication skills written/verbal.|- Knowledge of multiple programming languages - Knowledge of Integrated Development Platforms - Knowledge of cloud services such as AWS and Microsoft Azure - Knowledge of GitHub|Excellent role for people with strong mathematical and problem-solving skills. Moreover, this role has opportunities for workers to work remotely from home instead of an office like most other IT roles. However, this role may not accommodate people who wish a more physical role or a one that allows for a greater diversity of working environments.  
 
 
 
