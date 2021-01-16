@@ -20,7 +20,7 @@ DATE OF SUBMISSION:
 
  - [Personal Information](#personal-information)
 
- - [Personal test outcome](#personal-test-outcome)
+ - [Personal test profile](#personal-test-profile)
 
  - [GitHub Profile](#github-profile)
 
@@ -107,7 +107,7 @@ _Phimonrat Panaphong Belle_ [WebPage](https://bellebuta484.github.io/My_PROFILE_
 I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-year-old. I graduated with a Bachelor's degree in international business management from Thailand and had completed a Diploma in Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, and I am fair-minded, optimistic, hilarious, spontaneous, and honest. I am married to Ecuadorian-Australian who bring a laugher to the family. We have two gorgeous girls. They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and try my best to be mom, student and wife 
 
  
-### Team Profile
+### Personal Test Profile
 
  |Team Member   | Myers Briggs Personality    | Learning Style | Other Test | How do these results impact the Group| 
  |:---: | :---: | :---:| :----: | :----:|
@@ -149,7 +149,7 @@ System Analyst|According to the Bureau of Labour Statistics data, IT professiona
 ### Question 1: Employee Demand
 Text  
  
-### Question 2: General & IT Specific Skills Required
+### Question 2: General and IT Specific Skills Required
 Text  
  
 ### Question 3: Ideal Job Opinions 
