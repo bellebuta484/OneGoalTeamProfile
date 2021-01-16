@@ -32,11 +32,11 @@ DATE OF SUBMISSION:
 
  - [Compare and Analyze Ideal Jobs](#compare-and-analyze-ideal-jobs) 
 
- - [Question 1: Employee Demand](#Question 1:-Employee-Demand) 
+ - [Question 1: Employee Demand](#Question1:-Employee-Demand) 
 
- - [Question 2: General & IT Specific Skills Required](#Question 2:-General-&-IT-Specific-Skills-Required) 
+ - [Question 2: General & IT Specific Skills Required](#Question2:-General-&-IT-Specific-Skills-Required) 
 
- - [Question 3: Ideal Job Opinions](#Question 3:-Ideal-Job-Opinions)
+ - [Question 3: Ideal Job Opinions](#Question3:-Ideal-Job-Opinions)
 
 
 [IT WORK](#it-work) 
@@ -75,13 +75,13 @@ DATE OF SUBMISSION:
 
 [GROUP REFLECTION](#group-reflection) 
 
- - [Personal Reflection](#personal-reflection) 
+ - [Personal Reflections](#personal-reflections) 
 
- - [Group Reflection](#group-replection)  
+ - [Group Reflections](#group-reflections)  
 
 [REFERENCES AND APPENDIX](#references-and-appendix) 
 
- - [Blockchain & Cryptocurrencies and Autonomous Vehicles articles](#Blockchain-&-Cryptocurrencies-and-Autonomous-Vehicles-articles)
+ - [Blockchain and Cryptocurrencies and Autonomous Vehicles articles](#Blockchain-&-Cryptocurrencies-and-Autonomous-Vehicles-articles)
  
  - [CyberSecrurity and Machine Learning Articles](#CyberSecrurity-and-Machine-Learning-Articles)
 
@@ -109,8 +109,8 @@ I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-ye
  
 ### Team Profile
 
-     Team Member   | Myers Briggs Personality    | Learning Style | Other Test | How do these results impact the Group 
- :---: | :---: | :---:| :----: | :----:
+ |Team Member   | Myers Briggs Personality    | Learning Style | Other Test | How do these results impact the Group| 
+ |:---: | :---: | :---:| :----: | :----:|
  Belle P.Panaphong|INFJ-T(The Advocate)|Auditory:45% Visual:25% test:72% Tactile:30%|Creativity:72%|In my opinion, every group need the Advocate to play the role of participate, assist the load of works and move forward.
  Jordan Elkin| ISTJ-A(Assertive Logistician)|Auditory:60% Tactile:40%| Openness:75% Conscientiousness:87.5% Extraversion:46% Agreeableness:60% Neuroticism:23%|               
 Kristie Magazinovic|ENTJ(The Commander)|Auditory:35% Visual:45% Tactile:20%|Aptitude Test:87%| As an individual with strong leadership attributes and directness there will be a benefit in ensuring the team stays on task.  
@@ -219,13 +219,13 @@ Jason
 *Phimonrat Panaphong (Belle)*  
 200 Words 
 
-### Group Reflection  
+### Group Reflections  
  
  Kristie - 400 Words
 
 ## REFERENCES AND APPENDIX 
 
-### Blockchain & Cryptocurrencies and Autonomous Vehicles articles 
+### Blockchain and Cryptocurrencies and Autonomous Vehicles articles 
 
 Barone, A. 2019, _The Future Of Cryptocurrency in 2019 and Beyond_, Investopedia, Viewed 10 Jan 2021, [https://www.investopedia.com/articles/forex/091013/future-cryptocurrency.asp]
 
