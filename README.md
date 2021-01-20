@@ -88,7 +88,7 @@ _Jordan Elkin_ [WebPage](https://jordanelkin.github.io/persProfile/)
 
 I am a current serving member within the Australian Defence Force and have a strong interest within the IT field.  Previously I have studied Web Design and Basic Programming in my own time through self-directed learning.  I am an Australian and can speak both English and German. I am studying in order to complete my Bachelor of Information Technology in the hopes of changing careers and moving towards a more technical path.  
 
-_Kristie Magazinovic_ [WebPage](https://github.com/Kristiem88)
+_Kristie Magazinovic_ [WebPage](https://kristiem88.github.io/Assignment1/)
 
 I am currently studying a Bachelor of Business (Supply Chain and Logistics). Since Covid19 outbreak I decided to scale back on my full-time role as a National Fleet Manager for Hertz and focus on completing my degree. Studying through Open Universities has allowed me to pace my studies however this has been slow with a demanding job. I am now aiming to finish my degree in May 2021. I grew up on a working cattle and horse property and enjoy horse riding and spending time with my dogs. I also sing and play guitar in my spare time (Its cheaper than therapy). 
 
@@ -277,6 +277,8 @@ As machine learning leads to increased capabilities for Artificial Intelligence 
 Intelligent gaming systems will become widespread allowing for the creation of highly immersive games that base themselves on how users play the game and do not rely on pre-compiled scripts. Some examples of this currently occurring is with games creating new landscapes from information that is pre-designed by a designer and joined together during gameplay depending on the user. 
 
 ## PROJECT IDEA 
+
+![](images/fitness-app-development-must-have-features-tw.jpg)
 
 ### Overview
 
