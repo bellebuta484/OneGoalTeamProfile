@@ -112,9 +112,9 @@ I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-ye
 
 | Team Member | Myers Briggs Personality | Learning Style | Other Test | How do these results impact the Group | 
 | :---------: | :---------: | :--------:| :--------: | :--------:|
-| Jordan Elkin | ISTJ-A(Assertive Logistician) | Auditory:60% Tactile:40% | Openness:75% Conscientiousness:87.5% Extraversion:46% Agreeableness:60% Neuroticism:23%|               
+| Jordan Elkin | ISTJ-A(Assertive Logistician) | Auditory:60% Tactile:40% | Openness:75% Conscientiousness:87.5% Extraversion:46% Agreeableness:60% Neuroticism:23%| As a more agreeable and open person, in my opinion with a combination of other personality type it makes my integration within a team environment seamless, due to my drive to complete tasks|              
 | Kristie Magazinovic | ENTJ(The Commander) | Auditory:35% Visual:45% Tactile:20%|Aptitude Test:87% | As an individual with strong leadership attributes and directness there will be a benefit in ensuring the team stays on task |  
-| Kym Reilly | ISTJ-A (The Logistician) | Auditory:35% Visual:25% Tactile:40% | Steadiness:33% Dominance:26% Compliance:26% Influence:15% |  
+| Kym Reilly | ISTJ-A (The Logistician) | Auditory:35% Visual:25% Tactile:40% | Steadiness:33% Dominance:26% Compliance:26% Influence:15% | With steadiness being my most prominent attribute, I am more people orientated, have a relaxed disposition and can be more approachable, making it ideal for group tasks | 
 | Phimonrat Panaphong (Belle) |INFJ-T(The Advocate)| Auditory:45% Visual:25% test:72% Tactile:30% | Creativity:72% | In my opinion, every group need the Advocate to play the role of participate, assist the load of works and move forward|
   
 
@@ -449,7 +449,7 @@ Webroot 2021. _What Is Multi-Layer Security And How Can_, Webroot, Viewed 6 Janu
 
 ### IT Work Questionnaire 
 
-| Name |  Vishal Dhingra  |
+| Name | Vishal Dhingra |
 | --- | --- | --- |
 | Qualifications | Graduate with some advance diplomas in 3D, Web Tools, Designing tools |
 | **POSITION DESCRIPTION** | involves creating the code for a website to make it run on browsers|
