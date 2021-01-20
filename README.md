@@ -31,14 +31,6 @@ DATE OF SUBMISSION:
 
  - [Ideal Jobs](#ideal-jobs) 
 
- - [Compare and Analyze Ideal Jobs](#compare-and-analyze-ideal-jobs) 
-
-    + [Question 1: Employee Demand](#question-1-employee-demand) 
-
-    + [Question 2: General and IT Specific Skills Required](#question-2-general-and-IT-Specific-Skills-Required) 
-
-    + [Question 3: Ideal Job Opinions](#question-3-Ideal-Job-Opinions)
-
 
 [IT WORK](#it-work) 
 
@@ -85,6 +77,8 @@ DATE OF SUBMISSION:
  - [Blockchain and Cryptocurrencies and Autonomous Vehicles articles](#blockchain-and-cryptocurrencies-and-autonomous-vehicles-articles)
  
  - [CyberSecrurity and Machine Learning Articles](#cybersecrurity-and-machine-learning-articles)
+ 
+ - [IT Work Questionnaire](#it-work-questionnaire)
 
 ## TEAM PROFILE 
  
@@ -111,11 +105,11 @@ I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-ye
 ### Personal Test Profile
 
 | Team Member | Myers Briggs Personality | Learning Style | Other Test | How do these results impact the Group | 
-| :---------: | :---------: | :--------:| :--------: | :--------:|
-| Jordan Elkin | ISTJ-A(Assertive Logistician) | Auditory:60% Tactile:40% | Openness:75% Conscientiousness:87.5% Extraversion:46% Agreeableness:60% Neuroticism:23%| As a more agreeable and open person, in my opinion with a combination of other personality type it makes my integration within a team environment seamless, due to my drive to complete tasks|              
-| Kristie Magazinovic | ENTJ(The Commander) | Auditory:35% Visual:45% Tactile:20%|Aptitude Test:87% | As an individual with strong leadership attributes and directness there will be a benefit in ensuring the team stays on task |  
-| Kym Reilly | ISTJ-A (The Logistician) | Auditory:35% Visual:25% Tactile:40% | Steadiness:33% Dominance:26% Compliance:26% Influence:15% | With steadiness being my most prominent attribute, I am more people orientated, have a relaxed disposition and can be more approachable, making it ideal for group tasks | 
-| Phimonrat Panaphong (Belle) |INFJ-T(The Advocate)| Auditory:45% Visual:25% test:72% Tactile:30% | Creativity:72% | In my opinion, every group need the Advocate to play the role of participate, assist the load of works and move forward|
+| :--------- | :---------: | :--------:| :--------: | :--------:|
+| Jordan Elkin | ISTJ-A [Assertive Logistician] | Auditory:60% Tactile:40% | Openness:75% Conscientiousness:87.5% Extraversion:46% Agreeableness:60% Neuroticism:23% | As a more agreeable and open person, in my opinion with a combination of other personality type it makes my integration within a team environment seamless, due to my drive to complete tasks |              
+| Kristie Magazinovic | ENTJ [The Commander] | Auditory:35% Visual:45% Tactile:20%|Aptitude Test:87% | As an individual with strong leadership attributes and directness there will be a benefit in ensuring the team stays on task |  
+| Kym Reilly | ISTJ-A [The Logistician] | Auditory:35% Visual:25% Tactile:40% | Steadiness:33% Dominance:26% Compliance:26% Influence:15% | With steadiness being my most prominent attribute, I am more people orientated, have a relaxed disposition and can be more approachable, making it ideal for group tasks | 
+| Phimonrat Panaphong (Belle) | INFJ-T [The Advocate] | Auditory:45% Visual:25% test:72% Tactile:30% | Creativity:72% | In my opinion, every group need the Advocate to play the role of participate, assist the load of works and move forward |
   
 
   
@@ -137,17 +131,6 @@ Text
 | Kristie Magazinovic | Head of Supply Chain & Logistics | Supply Chain distribution and procurement managers require a very high skill set level and the employment size isn't as large as many industries however future growth in this field is strong and demand for skilled experiences supply chain and logistics professionals remains high | An Executive level role for a large FMCG company responsible for managing all supply chain functions including procurement, contract management, manufacturing, import/exports & last mile delivery functions. Highly strategic role with a focus on business improvement and creating value in a competitive landscape | There are few similarities between this role and the other 3 however all roles will most likely be employed in a corporate or government environment. All roles will rely on IT technologies such as software and IT hardware to complete daily functions. In terms of skill sets there will be similarities in requirements for communication skills, strategy development skills, knowledge of software systems and an understanding of how Information Technologies impact businesses | The Role is very different to the other 3 listed as it is not an IT specific role nor is it even in the IT industry.  The role is heavily focused on commercial activities and while IT based tasks such as systems development will be an integral part of the role, this is more in the capacity of a commercial executive department head which follows a more conceptual and financial approach than systematic execution | - Leadership Qualities - Extremely high level of Commercial Accumen - People Management Skills - Communication Skills - Project Management - Strategy Development - Negotiation Skills - Budget preparation and Financial Management | - Knowledge of reporting software such as SQL, Python and tableau - Knowledge of ERP systems such as SAP and Oracle - Working knowledge - Broad understanding of commercial IT tools such as software, hardware and cloud storage | This is an excellent role for individuals with strong leadership attributes, strong negotiation skills and a high level of business acumen. The future demand for similar positions is strong and many of the IT skills, general skills and even qualifications are highly transferable to other senior and executive business management roles |  
 |Kym Reilly | Telecommunication and Network Engineer | AS networks improve and grow across the globe, these roles become more and more sort after. Even with countries will already existing infrastructure will look at ways to improve what they have while countries that are just beginning to improve and maintain their network service will have a smaller demand but still have a demand non the less | The primary focus of this role is the installation, relocation, maintenance and expansion/ upgrade of IT network infrastructure systems in addition to the provision of remedial maintenance support on LAN and WAN Networks. Will also be responsible for design and commissioning of networks. Managing the design, installation and operation of the ICT system instance landscape, client and transport processes. Providing broad technical support for project build, test and solution deployment activities. Configure and manage all non-functional platform capabilities including job scheduling, output management, email, archiving, technical security, technical connectivity between software components. Managing an ethernet optical transmission system. Plan to test optical ethernet link. Specify architecture requirements and manage optical ethernet link | The way this job can be like the other three jobs listed above is that they are all set out to improve and streamline operations.They also require skills in the area of critical thinking to find solutions for problems that may not have even occurred yet. All these jobs take historical research data to review a current model and use it to implement a new and more effective model | Although this job has similarities to the others, there are a few variances also.A Telecommunication and Network Engineer would essentially have to have their systems up and working prior to the other three jobs above to take place.Without a working telecommunications network in place, the above become much harder to accomplish their tasks |
 | Phimonrat Panaphong (Belle) | System Analyst | According to the Bureau of Labour Statistics data, IT professionals are in high demand, and the career outlook for systems analysts continues and expected to grow by 9% through 2028. System Analysts are often required to work overtime and out of regular hours to regulate the upgrades, solves, securing the interruption to business. | A System Analyst is responsible for maintaining and improving computer systems for an organization.  System Analysts require to troubleshoot and maintain data warehouse and data storage systems.  Regularly researching, assess and evaluate technology in the infrastructure. Understanding user needs and how to improve systems based on demand. Create cost analysis reports that highlight the cost of efficiency. Communicate with stakeholders and train users | System Analysts require similarity skills as the other jobs listed below. They need to have a good communication skill in verbal and writing, thinking ability, problem-solving and good knowledge of programming language | All the job roles have a different responsibility in their position. System Analyst is focusing on maintaining and improving computer systems. Work to optimise programs for users. The role is to advise employers and clients on which software they may need for their company, implement the software, and communicate with users to ensure the programs function correctly |- Critical thinking ability - Strong problem-solving capacity - High-level written and verbal communication skills - Project management skills - Knowledge of data modeling and data visualization tools |- Knowledge of how to operate business software applications such as SQL, Oracle and SAP. - Knowledge of hardware and software - Knowledge of programming language such as Java, C++ and Visual basic | I see the larger picture in resolving problems as a mother; we always think ahead. This role will reward me in so many ways such as solving complex problem, interacting with many different groups and functional areas allowed me to continue learning and understanding how different functions operate, and challenged with understanding discipline. It has also given me opportunities to grow in my career as a leader |
-
-### Compare and Analyze Ideal Jobs
-
-#### Question 1: Employee Demand
-Text  
- 
-#### Question 2: General and IT Specific Skills Required
-Text  
- 
-#### Question 3: Ideal Job Opinions 
-Text  
 
 ## IT WORK 
  
