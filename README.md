@@ -134,6 +134,8 @@ When forming an IT group and collaboration is very complicated, and the lack of 
 
 ## IT WORK 
  
+![](images/002612-multimediaspecialistsandwebdevelopers.jpg)
+
 ### Question 1: Field of IT Professional
 + Web Developer/Design. Vishals primary tasks include translating the blueprints set out by the design team and transforming them into code to ensure the desired web layout is created. Vishal aims to finds balance between ensuring the vision of the design team is realised, meeting the demands of upper management and optimising website functionality while creating a superior user experience. To be suitable for such a position there was a need for previous web development experience, experience using multiple backend languages (such as HTML, JQuery), and experience in Hosting/Domain access. There is also a requirement for formal educational training in this area and Vishal holds advanced diplomas in IT (3D, Web Tools, and Designing tools). 
 
@@ -155,6 +157,7 @@ Now that the website has launched officially, they continue to review and evalua
 ## IT TECHNOLOGIES 
  
 ### Blockchain and Cryptocurrencies 
+
 **What Does it do?** 
 
 Originally conceptualized by Satoshi Nakamoto, Cryptocurrencies burst onto the IT world stage in 2008 with the introduction of Bitcoin and received a great amount of interest from both investors and the media alike. Bitcoin was the first of its kind and characterised as a peer-to-peer electronic cash system which allows online payments to be sent directly from one party to another without going through a financial institution such as banks (Hudson and Urquhart, 2019). A Cryptocurrency is more broadly defined as a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double spend. The key feature of cryptocurrencies is that they are not typically used by a central authority;such as a reserve bank; making them resistant to government intervention.  For this reason, many in the financial world consider cryptocurrency to be more of an investment than a legitimate currency. 
